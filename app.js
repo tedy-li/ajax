@@ -1,9 +1,7 @@
 // 引入express框架
 const express = require('express');
-// 路径处理模块
-// 试一下别名
-// 别名简写
-// git push
+// 路径处理t push
+// 再次修改
 const path = require('path');
 // 测试一下文件修改
 // 导入mongoose模块
